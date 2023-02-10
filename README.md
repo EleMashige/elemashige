@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ele Mashige</h1>
 <h3 align="center">A passionate Software Web Developer Trainee at CodeYourFuture</h3>
-<img align="right" alt="Coding" width="100" src="https://www.linkpicture.com/q/IMG_3758.jpg">
+<img align="right" alt="Coding" width="200" src="https://www.linkpicture.com/q/2dbbb81b-0e1f-44c2-825e-c0e8e3b46634-2.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elemashige&label=Profile%20views&color=0e75b6&style=flat" alt="elemashige" /> </p>
 
