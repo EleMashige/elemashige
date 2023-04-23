@@ -1,7 +1,7 @@
 <img src="https://www.linkpicture.com/q/Margarita-Perez.png">
 
 <h1 align="center">Hi 👋, I'm Ele Mashige</h1>
-<h3 align="center">A passionate Software Web Developer Trainee at CodeYourFuture</h3>
+<h3 align="center">A passionate Software Developer Trainee at CodeYourFuture</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elemashige&label=Profile%20views&color=0e75b6&style=flat" alt="elemashige" /> </p>
