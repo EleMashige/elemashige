@@ -1,4 +1,4 @@
-<img src="https://www.linkpicture.com/q/Margarita-Perez-1.png">
+<img src="https://www.linkpicture.com/q/Banner-2_1.png">
 
 <h1 align="center">Hi 👋, I'm Ele Mashige</h1>
 <h3 align="center">A passionate Software Developer Trainee at CodeYourFuture</h3>
